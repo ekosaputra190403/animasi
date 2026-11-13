@@ -1,0 +1,12 @@
+Merender untuk pemeriksaan (cepat, ukuran kecil)...
+Pemeriksaan framing: Video (projects/lembur-pabrik/index.tsx)
+Diperiksa tiap 5 frame; masalah minimal 0.3 detik.
+
+Ditemukan 5 masalah:
+  00:05.67 - 00:06.17  satpam   terpotong di pinggir KIRI (paling sedikit terlihat 18%)
+  00:42.50 - 00:42.83  karyawan terpotong di pinggir KANAN (paling sedikit terlihat 93%)
+  01:00.17 - 01:01.50  satpam   terpotong di pinggir KANAN (paling sedikit terlihat 19%)
+  01:06.00 - 01:10.00  satpam   terpotong di pinggir KANAN (paling sedikit terlihat 74%)
+  01:08.67 - 01:09.00  hantu    terpotong di pinggir KIRI (paling sedikit terlihat 7%)
+
+Laporan disimpan: D:\remotion\OpenMontage\remotion-composer\projects\lembur-pabrik\periksa-framing.txt

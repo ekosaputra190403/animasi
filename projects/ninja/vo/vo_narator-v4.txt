@@ -1,0 +1,21 @@
+[curious] Kamu seorang ninja di Jepang zaman samurai. Misimu: mencuri peta rahasia dari kastil musuh.
+
+[calm] Kamu datang pakai baju serba hitam, padahal orang lain bajunya biasa aja. Penjaga langsung curiga.
+
+[matter-of-fact] Ternyata, baju serba hitam itu kemungkinan besar cuma gaya panggung teater. Ninja beneran malah nyamar. Jadi kamu balik lagi sebagai pedagang.
+
+[calm] Penyamaranmu berhasil, dan petanya ketemu.
+
+[tense] Tapi pas kamu kabur lewat atap, dua penjaga ngepung kamu.
+
+[tense] Kamu melawan, lalu nebar paku besi kecil di belakangmu. Para pengejar langsung berhenti.
+
+[tense] Terus, seorang samurai menghadang. Panahnya nggak mempan, jadi dia manggil kapal perang.
+
+[tense] Pedangnya motong pikulanmu sedikit demi sedikit.
+
+[calm] Tapi tugas ninja bukan menang duel. Yang penting, informasinya kebawa pulang.
+
+[calm] Di rumah, kamu nulis sumpah: ilmu ninjamu nggak boleh diceritain, bahkan ke anak dan saudaramu.
+
+[calm] Yang melanggar, bakal dihukum para dewa, turun-temurun.

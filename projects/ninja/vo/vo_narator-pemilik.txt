@@ -1,0 +1,13 @@
+[whisper] Napasmu tertahan di atas genteng kastil musuh. Malam ini, misimu cuma satu: curi peta strategi perang sebelum fajar, atau kepalamu yang dipajang di gerbang kota.
+
+[shock] Tapi baru tiga langkah menyusup, kamu sadar satu kesalahan fatal! Baju serba hitam yang kamu pakai, malah bikin kamu kelihatan mencolok seperti noda tinta di kertas putih!
+
+[urgent] Dengan cepat kamu robek jubah hitammu dan berganti baju pedagang jerami. Kamu berjalan santai di depan hidung musuh yang sibuk mencari penyusup berkerudung hitam. Gulungan peta berhasil di tangan!
+
+[tense] Tapi alarm kastil meledak! Jalur keluarmu di jembatan atap terkepung dua tombak tajam! Nggak ada bom asap ajaib! Satu-satunya penyelamatmu cuma Makibishi, paku bintang besi berduri yang kamu tebar ke lantai!
+
+[very-tense] Dari balik kabut, seorang komandan samurai menebas katananya! Pikulanmu hancur berkeping-keping! Ujung pedangnya hampir memenggal lehermu! Tapi kamu ingat sumpah ninjamu: pantang mati di ujung pedang demi sebuah peta!
+
+[explosive] Kamu lempar serbuk abu ke mata sang samurai, lalu nekat terjun bebas ke dalam kegelapan jurang sungai!
+
+[dark-whisper] Kamu lolos menembus malam. Tapi begitu sampai di rumah persembunyian, kamu wajib menorehkan darahmu di buku sumpah rahasia. Karena hukum ninja tidak pernah kenal ampun: jika rahasia ini bocor bahkan ke anak kandungmu sendiri, leher seluruh keluargamu yang harus ditebas sebelum fajar tiba! Kalau kamu di posisi ini, kamu sanggup menanggung rahasia ini seumur hidupmu?!

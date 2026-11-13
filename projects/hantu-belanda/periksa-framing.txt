@@ -1,0 +1,23 @@
+Pemeriksaan framing: Video (projects/hantu-belanda/index.tsx)
+Diperiksa tiap 5 frame; masalah minimal 0.3 detik.
+
+Ditemukan 19 masalah:
+  00:00.00 - 00:02.50  biasa    terpotong di pinggir KANAN (paling sedikit terlihat 8%)
+  00:04.50 - 00:06.50  cewek    terpotong di pinggir KANAN (paling sedikit terlihat 29%)
+  00:07.00 - 00:07.83  biasa    terpotong di pinggir KIRI (paling sedikit terlihat 58%)
+  00:07.00 - 00:08.33  cewek    terpotong di pinggir KIRI (paling sedikit terlihat 30%)
+  00:09.17 - 00:12.50  cewek    terpotong di pinggir KIRI (paling sedikit terlihat 45%)
+  00:15.17 - 00:16.33  biasa    terpotong di pinggir KANAN (paling sedikit terlihat 50%)
+  00:16.83 - 00:17.17  biasa    terpotong di pinggir KANAN (paling sedikit terlihat 21%)
+  00:17.33 - 00:17.67  biasa    terpotong di pinggir KIRI (paling sedikit terlihat 9%)
+  00:23.50 - 00:28.33  biasa    terpotong di pinggir KANAN (paling sedikit terlihat 10%)
+  00:30.33 - 00:30.67  hantu    terpotong di pinggir KIRI (paling sedikit terlihat 84%)
+  00:31.17 - 00:31.83  hantu    terpotong di pinggir KIRI (paling sedikit terlihat 60%)
+  00:32.00 - 00:34.17  hantu    terpotong di pinggir KIRI (paling sedikit terlihat 26%)
+  00:35.67 - 00:36.00  cewek    terpotong di pinggir KANAN (paling sedikit terlihat 61%)
+  00:37.00 - 00:38.33  cewek    terpotong di pinggir KANAN (paling sedikit terlihat 91%)
+  00:38.50 - 00:40.67  cewek    terpotong di pinggir KANAN (paling sedikit terlihat 66%)
+  00:46.67 - 00:48.17  cewek    terpotong di pinggir KANAN (paling sedikit terlihat 90%)
+  00:48.33 - 00:50.67  hantu    terpotong di pinggir KIRI (paling sedikit terlihat 47%)
+  00:50.67 - 00:51.00  cewek    terpotong di pinggir KANAN (paling sedikit terlihat 12%)
+  00:50.83 - 00:52.00  biasa    terpotong di pinggir KANAN (paling sedikit terlihat 22%)

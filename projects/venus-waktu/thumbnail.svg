@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08101f"/>
+      <stop offset=".58" stop-color="#101a30"/>
+      <stop offset="1" stop-color="#281c31"/>
+    </linearGradient>
+    <radialGradient id="planet" cx="30%" cy="28%" r="74%">
+      <stop offset="0" stop-color="#ffe2a2"/>
+      <stop offset=".28" stop-color="#eeb96e"/>
+      <stop offset=".67" stop-color="#c57849"/>
+      <stop offset="1" stop-color="#542e35"/>
+    </radialGradient>
+    <linearGradient id="shade" x1=".2" y1=".15" x2=".95" y2=".75">
+      <stop offset=".35" stop-color="#111525" stop-opacity="0"/>
+      <stop offset="1" stop-color="#111525" stop-opacity=".86"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset=".62" stop-color="#ffc875" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#ffc875" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd982"/>
+      <stop offset="1" stop-color="#ffad54"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <clipPath id="planet-clip">
+      <circle cx="963" cy="364" r="248"/>
+    </clipPath>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="8" refY="6" orient="auto">
+      <path d="M1 1L10 6L1 11" fill="none" stroke="#ffe2a2" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#space)"/>
+  <ellipse cx="971" cy="359" rx="384" ry="345" fill="url(#glow)" filter="url(#soft-glow)"/>
+
+  <g fill="#eaf0ff">
+    <circle cx="67" cy="171" r="2"/><circle cx="298" cy="115" r="2.5"/><circle cx="463" cy="79" r="1.7"/>
+    <circle cx="592" cy="163" r="2"/><circle cx="1164" cy="100" r="2.2"/><circle cx="1211" cy="195" r="1.5"/>
+    <circle cx="1128" cy="617" r="2"/><circle cx="737" cy="647" r="1.8"/><circle cx="604" cy="569" r="1.4"/>
+    <circle cx="92" cy="584" r="1.8"/><circle cx="391" cy="640" r="2.1"/><circle cx="521" cy="491" r="1.4"/>
+    <circle cx="177" cy="279" r="1.5"/><circle cx="1096" cy="276" r="1.6"/><circle cx="1242" cy="483" r="1.8"/>
+  </g>
+  <g fill="#aebfdf" opacity=".8">
+    <circle cx="226" cy="92" r="1"/><circle cx="558" cy="251" r="1.2"/><circle cx="81" cy="470" r="1"/>
+    <circle cx="1167" cy="542" r="1.1"/><circle cx="332" cy="512" r="1"/><circle cx="704" cy="110" r="1.1"/>
+    <circle cx="454" cy="564" r="1"/><circle cx="1035" cy="82" r="1"/>
+  </g>
+
+  <path d="M672 378C733 175 1037 83 1194 249" fill="none" stroke="#f2ca84" stroke-opacity=".44" stroke-width="2.5" stroke-dasharray="7 12" marker-end="url(#arrow)"/>
+  <circle cx="1132" cy="164" r="16" fill="#ffe5ae"/>
+  <circle cx="1132" cy="164" r="34" fill="#ffc875" opacity=".2"/>
+
+  <circle cx="963" cy="364" r="273" fill="#ffc875" opacity=".13"/>
+  <circle cx="963" cy="364" r="248" fill="url(#planet)"/>
+  <g clip-path="url(#planet-clip)" fill="none" stroke-linecap="round">
+    <path d="M689 241C779 191 858 225 949 197S1115 197 1223 144" stroke="#fff0c8" stroke-opacity=".46" stroke-width="20"/>
+    <path d="M700 290C787 255 841 282 935 248S1091 259 1220 202" stroke="#9e553e" stroke-opacity=".46" stroke-width="29"/>
+    <path d="M702 338C774 308 862 345 939 311S1094 319 1215 268" stroke="#ffe0a2" stroke-opacity=".48" stroke-width="18"/>
+    <path d="M703 386C797 356 853 393 937 362S1107 369 1222 325" stroke="#9c523c" stroke-opacity=".52" stroke-width="27"/>
+    <path d="M707 442C793 405 855 447 942 414S1107 426 1214 378" stroke="#ffe2a5" stroke-opacity=".39" stroke-width="19"/>
+    <path d="M718 492C803 460 867 501 951 465S1102 478 1200 436" stroke="#a2513b" stroke-opacity=".55" stroke-width="27"/>
+    <path d="M743 546C816 511 880 551 959 519S1091 528 1174 492" stroke="#ffd99b" stroke-opacity=".34" stroke-width="17"/>
+    <path d="M775 584C847 562 899 590 969 563S1084 568 1147 541" stroke="#733f3b" stroke-opacity=".56" stroke-width="20"/>
+    <path d="M754 217C843 253 898 219 1004 246S1111 234 1178 216" stroke="#fff6dc" stroke-opacity=".18" stroke-width="8"/>
+    <path d="M752 471C835 438 895 473 985 445S1100 451 1182 415" stroke="#fff6dc" stroke-opacity=".17" stroke-width="7"/>
+  </g>
+  <circle cx="963" cy="364" r="248" fill="url(#shade)"/>
+  <ellipse cx="897" cy="206" rx="156" ry="60" fill="#fff0cb" opacity=".12" transform="rotate(-22 897 206)"/>
+  <path d="M802 165C847 138 903 130 947 137" fill="none" stroke="#fff4d8" stroke-opacity=".7" stroke-width="5" stroke-linecap="round"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="64" y="58" width="360" height="46" rx="23" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".17"/>
+    <circle cx="91" cy="81" r="6" fill="#ffc66d"/>
+    <text x="109" y="88" fill="#dbe6f5" font-size="18" font-weight="700" letter-spacing="2">RUANG PIKIR  •  ANTARIKSA</text>
+
+    <text x="65" y="214" fill="#dbe6f5" font-size="25" font-weight="800" letter-spacing="3">FAKTA VENUS YANG BIKIN HERAN</text>
+    <text x="61" y="313" fill="#ffffff" font-size="82" font-weight="900" letter-spacing="-2">TAHUNNYA</text>
+    <text x="61" y="405" fill="url(#gold)" font-size="82" font-weight="900" letter-spacing="-2">LEBIH PENDEK</text>
+    <text x="65" y="467" fill="#eef3fc" font-size="43" font-weight="800" letter-spacing=".1">DARI 1 ROTASI?!</text>
+    <rect x="66" y="501" width="542" height="2" fill="#ffffff" fill-opacity=".16"/>
+
+    <rect x="65" y="527" width="250" height="105" rx="18" fill="#101b2f" fill-opacity=".88" stroke="#8bd8e0" stroke-opacity=".75" stroke-width="2"/>
+    <text x="89" y="575" fill="#8bd8e0" font-size="43" font-weight="900">225 HARI</text>
+    <text x="90" y="608" fill="#dbe6f5" font-size="17" font-weight="800" letter-spacing="1.7">1 ORBIT MATAHARI</text>
+
+    <rect x="330" y="527" width="278" height="105" rx="18" fill="#101b2f" fill-opacity=".88" stroke="#f3c36c" stroke-opacity=".8" stroke-width="2"/>
+    <text x="353" y="575" fill="#f3c36c" font-size="43" font-weight="900">243 HARI</text>
+    <text x="355" y="608" fill="#dbe6f5" font-size="17" font-weight="800" letter-spacing="1.4">ROTASI PADA SUMBU</text>
+
+    <text x="67" y="677" fill="#9eacc4" font-size="17" font-weight="700" letter-spacing="2">SATU TAHUN SELESAI, ROTASI MASIH BERLANJUT</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+[curious] Bayangkan kamu jadi ninja di Jepang zaman perang, dan malam ini harus menyusup ke kastil musuh tanpa ketahuan.
+
+[calm] Kamu memakai baju serba hitam. Masalahnya, ninja asli tidak berpakaian seperti itu.
+
+[matter-of-fact] Baju hitam itu gaya panggung teater. Ninja asli memakai warna biasa, seperti cokelat dan biru tua.
+
+[calm] Jadi kamu menyamar jadi pedagang, salah satu dari tujuh penyamaran di buku ninja kuno.
+
+[calm] Tugasmu bukan bertarung, tapi mencari informasi.
+
+[tense] Tapi seorang penjaga melihatmu. Kamu kabur lewat atap.
+
+[calm] Shuriken jarang dipakai untuk melukai. Lebih sering untuk mengalihkan perhatian.
+
+[calm] Lalu kamu menabur makibishi, paku besi kecil yang menghentikan pengejarmu.
+
+[calm] Di depanmu ada parit. Kamu memakai mizugumo, yang katanya bisa untuk berjalan di atas air.
+
+[matter-of-fact] Saat diuji di acara MythBusters, ternyata tidak bisa.
+
+[warm] Kamu tetap pulang, basah kuyup, membawa informasi.
+
+[amused] Kalau kamu jadi ninja, pilih baju hitam yang keren tapi ketahuan... atau jadi pedagang yang selamat?

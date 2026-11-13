@@ -1,0 +1,15 @@
+[whisper] Napasmu tertahan di atas genteng kastil musuh. Misimu: curi peta perang sebelum fajar.
+
+[tense] Tapi baru tiga langkah, kamu sadar: di bawah bulan, baju hitammu malah kelihatan jelas di tembok kastil yang putih.
+
+[calm] Untung, di balik jubah hitam kamu sudah pakai baju pedagang jerami. Penjaga nggak curiga, dan petanya berhasil kamu ambil.
+
+[tense] Tapi genderang bahaya berbunyi. Dua penjaga bertombak ngepung kamu. Kamu tebar makibishi, paku besi berduri, dan mereka langsung berhenti.
+
+[tense] Lalu seorang samurai menebas, pikulanmu hancur. Tapi tugas ninja bukan menang duel.
+
+[urgent] Jadi kamu lempar serbuk abu ke matanya, lalu terjun ke sungai.
+
+[calm] Di rumah persembunyian, kamu cap jempol berdarah di surat sumpah: ilmu ninjamu nggak boleh bocor, bahkan ke anakmu. Yang melanggar, dihukum dewa turun-temurun.
+
+[curious] Kalau kamu di posisi ini, sanggup nyimpen rahasia ini seumur hidup?

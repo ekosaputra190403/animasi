@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Celah terakhir</title>
+  <desc id="desc">Raka harus merunduk melewati lorong yang menyempit menuju cahaya luar.</desc>
+  <defs>
+    <linearGradient id="stone" x2="0" y2="1"><stop stop-color="#151b1e"/><stop offset=".5" stop-color="#343936"/><stop offset="1" stop-color="#171d1e"/></linearGradient>
+    <radialGradient id="exit"><stop stop-color="#ffe2a0"/><stop offset=".36" stop-color="#e99c52" stop-opacity=".85"/><stop offset="1" stop-color="#c4753d" stop-opacity="0"/></radialGradient>
+    <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#514b40"/><stop offset="1" stop-color="#1b2222"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="42"/></filter>
+  </defs>
+  <rect width="1080" height="1920" fill="#10171b"/>
+  <ellipse cx="540" cy="1040" rx="260" ry="520" fill="url(#exit)" filter="url(#glow)"/>
+  <path d="M0 0H450L438 210 500 390 433 575 488 746 429 905 482 1056 428 1240 483 1420 433 1600 478 1770 455 1920H0Z" fill="url(#stone)" stroke="#696457" stroke-opacity=".4" stroke-width="15"/>
+  <path d="M1080 0H630L642 210 580 390 647 575 592 746 651 905 598 1056 652 1240 597 1420 647 1600 602 1770 625 1920H1080Z" fill="url(#stone)" stroke="#6b6357" stroke-opacity=".38" stroke-width="15"/>
+  <path d="M455 0H625L642 210 580 390 647 575 592 746 651 905 598 1056 652 1240 597 1420 647 1600 602 1770H478L433 1600 483 1420 428 1240 482 1056 429 905 488 746 433 575 500 390 438 210Z" fill="#171d1e"/>
+  <path d="M0 1270Q255 1202 540 1290q284-82 540-10v640H0Z" fill="url(#floor)"/>
+  <path d="M540 1030L205 1920M540 1030L870 1920" stroke="#8c8068" stroke-opacity=".32" stroke-width="9"/>
+  <path d="M0 400l202 76-61 111 161 76m-265 180 153-45 109 68m-275 242 166-48 83 63" fill="none" stroke="#8c806d" stroke-opacity=".43" stroke-width="11" stroke-linecap="round"/>
+  <path d="M1080 390l-202 74 61 113-161 74m265 184-153-48-109 68m275 246-166-48-83 63" fill="none" stroke="#8d8069" stroke-opacity=".4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M501 0h42l-16 153zm75 250h30l-14 120zm-160 315h25l-12 94zm206 203h24l-12 86z" fill="#beb092" opacity=".8"/>
+  <g fill="#e1bd7d" opacity=".5"><circle cx="413" cy="1100" r="6"/><circle cx="658" cy="1265" r="7"/><circle cx="343" cy="1455" r="5"/><circle cx="732" cy="1590" r="6"/></g>
+  <path d="M516 1493h48l28 133h-104Z" fill="#efb761" opacity=".2"/>
+  <path d="M0 1810q238-66 460-24m161 0q225-58 459-1" fill="none" stroke="#a78b63" stroke-opacity=".24" stroke-width="12"/>
+</svg>

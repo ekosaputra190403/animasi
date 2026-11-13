@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Genangan hangat</title>
+  <desc id="desc">Genangan cairan merah gelap yang mengilap, tangan Raka menyentuhnya dengan uap tipis.</desc>
+  <defs>
+    <linearGradient id="ground" x2="0" y2="1"><stop stop-color="#353936"/><stop offset=".38" stop-color="#252b29"/><stop offset="1" stop-color="#111719"/></linearGradient>
+    <radialGradient id="pool"><stop stop-color="#8f3437"/><stop offset=".6" stop-color="#4f2028"/><stop offset="1" stop-color="#25161c"/></radialGradient>
+    <linearGradient id="sleeve" x2="0" y2="1"><stop stop-color="#69776b"/><stop offset="1" stop-color="#35433d"/></linearGradient>
+    <filter id="steam"><feGaussianBlur stdDeviation="15"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="25"/></filter>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#ground)"/>
+  <path d="M0 270l188-105 161 82 144-113 162 89 198-76 227 131v480L0 774Z" fill="#444641"/>
+  <path d="M0 520l180-76 132 90 168-88 173 110 190-87 237 89v505L0 984Z" fill="#303532" stroke="#69685d" stroke-opacity=".55" stroke-width="14"/>
+  <path d="M0 1010l174-53 124 72 169-65 149 73 176-49 288 74v858H0Z" fill="#1e2524"/>
+  <ellipse cx="530" cy="1330" rx="390" ry="245" fill="#9c343d" opacity=".27" filter="url(#glow)"/>
+  <path d="M114 1370Q159 1197 367 1168Q562 1124 761 1201Q953 1288 932 1411Q902 1573 701 1612Q471 1667 263 1586Q106 1526 114 1370Z" fill="url(#pool)" stroke="#b65a59" stroke-opacity=".62" stroke-width="16"/>
+  <path d="M216 1360Q345 1248 511 1274Q638 1287 724 1351" fill="none" stroke="#f4b783" stroke-opacity=".67" stroke-width="18" stroke-linecap="round"/>
+  <path d="M302 1469Q466 1524 676 1465M374 1321Q495 1288 609 1328" fill="none" stroke="#e4977d" stroke-opacity=".34" stroke-width="8"/>
+  <ellipse cx="552" cy="1398" rx="92" ry="20" fill="none" stroke="#eaa58b" stroke-opacity=".54" stroke-width="8"/>
+  <ellipse cx="552" cy="1398" rx="145" ry="34" fill="none" stroke="#d48172" stroke-opacity=".34" stroke-width="7"/>
+  <path d="M1080 846Q925 858 833 966Q777 1034 711 1162L675 1223" fill="none" stroke="#171e20" stroke-width="180" stroke-linecap="round"/>
+  <path d="M1080 846Q925 858 833 966Q777 1034 711 1162L675 1223" fill="none" stroke="url(#sleeve)" stroke-width="142" stroke-linecap="round"/>
+  <path d="M752 1102Q704 1148 675 1220" fill="none" stroke="#c89576" stroke-width="70" stroke-linecap="round"/>
+  <ellipse cx="667" cy="1241" rx="58" ry="38" transform="rotate(-24 667 1241)" fill="#d1a081" stroke="#332d29" stroke-width="9"/>
+  <path d="M637 1255q-29 5-38 30m52-32q-23 13-21 39m43-45q-12 17 2 34" fill="none" stroke="#d1a081" stroke-width="17" stroke-linecap="round"/>
+  <g fill="none" stroke="#d8d1c5" stroke-linecap="round" opacity=".28" filter="url(#steam)">
+    <path d="M420 1138q-61-95 16-169t-2-154" stroke-width="32"/><path d="M558 1128q70-93 7-169t21-156" stroke-width="27"/>
+    <path d="M682 1173q-45-83 12-135t-3-124" stroke-width="24"/>
+  </g>
+  <g fill="#d7bb93" opacity=".72"><circle cx="242" cy="1020" r="7"/><circle cx="784" cy="1114" r="5"/><circle cx="349" cy="1088" r="6"/></g>
+</svg>

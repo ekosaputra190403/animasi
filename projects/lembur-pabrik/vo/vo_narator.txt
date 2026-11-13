@@ -1,0 +1,19 @@
+[calm] Di pabrik ini, ada satu mesin jahit yang selalu menyala sendiri tiap jam dua belas malam.
+
+[calm] Malam itu, satu karyawan lembur sendirian. Targetnya tiga ratus potong, baru jadi seratus.
+
+[quiet] Tepat jam dua belas, mesin di ujung ruangan menyala sendiri.
+
+[whispers] Dia mematikan radio dan bersembunyi di antara manekin, menunggu suara itu berhenti. [pause] Suara itu tidak berhenti.
+
+[quiet] Dia memberanikan diri mendekat. Di samping mesin itu, baju-baju targetnya sudah terjahit rapi.
+
+[curious] Di mesin itu terselip kartu absen tua dari tahun sembilan puluhan. [pause] Jam pulangnya kosong. Dia melihat kartunya sendiri. [pause] Kolom pulangnya juga masih kosong.
+
+[quiet] Di belakangnya, mesin berbunyi lagi. Penjahit pemilik kartu itu sedang menyelesaikan sisa targetnya.
+
+[calm] Penjahit itu dulu lembur setiap malam sampai tidak pernah pulang. Sampai sekarang, dia masih mengerjakan target.
+
+[warm] Malam itu targetnya selesai. Dan untuk pertama kalinya, dia pulang tepat waktu.
+
+[calm] Di pintu keluar, satpam yang sejak tadi mengira monitornya rusak sudah menunggu.

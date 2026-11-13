@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Lereng di luar gua</title>
+  <desc id="desc">Mulut gua terbuka ke lereng berbatu, pepohonan gelap, dan cahaya senja.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#263844"/><stop offset=".45" stop-color="#d28c58"/><stop offset="1" stop-color="#7c5140"/></linearGradient>
+    <linearGradient id="slope" x2="0" y2="1"><stop stop-color="#766653"/><stop offset="1" stop-color="#2a2d2a"/></linearGradient>
+    <radialGradient id="sun"><stop stop-color="#ffe2a2" stop-opacity=".95"/><stop offset="1" stop-color="#efac68" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="48"/></filter>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#sky)"/>
+  <ellipse cx="547" cy="748" rx="398" ry="450" fill="url(#sun)" filter="url(#soft)"/>
+  <path d="M0 910Q194 650 357 823q175-277 344-49 167-213 379 63v547H0Z" fill="#39433d"/>
+  <path d="M0 1120q206-201 381-35 206-268 376-52 167-188 323-37v420H0Z" fill="#303933"/>
+  <path d="M0 1395q207-94 376 0 198-128 379-20 177-120 325-14v559H0Z" fill="url(#slope)"/>
+  <path d="M0 1600q274-156 540-38 271-159 540-20v378H0Z" fill="#343632"/>
+  <path d="M0 1690q276-90 540-8 282-93 540-7" fill="none" stroke="#a28d6d" stroke-opacity=".42" stroke-width="17"/>
+  <path d="M0 1450l125-95 139 40 77 161-204 116-137-44zm759-119 118-81 167 68 36 178-167 93-186-104z" fill="#565147" stroke="#292f2d" stroke-width="16"/>
+  <g fill="#172322">
+    <path d="M87 1285l74-245 76 245z"/><path d="M173 1324l95-307 95 307z"/><path d="M830 1300l77-261 80 261z"/><path d="M924 1322l76-282 80 282z"/>
+  </g>
+  <g stroke="#362f29" stroke-width="18"><path d="M160 1320v115m149-115v135m597-132v126m144-110v125"/></g>
+  <path d="M400 0H680L760 310 705 530 762 720 688 940 738 1130 670 1350H385L426 1150 355 940 416 720 366 520 429 300Z" fill="#0c1114" opacity=".88"/>
+  <path d="M443 1388q95-67 198-4" fill="none" stroke="#eac082" stroke-opacity=".45" stroke-width="12"/>
+  <g fill="#dcc59d" opacity=".52"><circle cx="324" cy="1122" r="8"/><circle cx="704" cy="1230" r="6"/><circle cx="525" cy="1310" r="5"/></g>
+</svg>

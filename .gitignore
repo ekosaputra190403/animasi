@@ -1,0 +1,10 @@
+
+node_modules/
+.cache/
+.env
+out/
+*.mp4
+*.zip
+.remotion/
+dist/
+build/

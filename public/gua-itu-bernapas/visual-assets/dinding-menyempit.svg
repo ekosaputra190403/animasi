@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Dinding gua menyempit</title>
+  <desc id="desc">Dua sisi dinding batu melengkung dan merapat menuju celah bercahaya.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#10181d"/><stop offset="1" stop-color="#090d10"/></linearGradient>
+    <linearGradient id="wallL"><stop stop-color="#111719"/><stop offset=".68" stop-color="#3b403d"/><stop offset="1" stop-color="#242b2a"/></linearGradient>
+    <linearGradient id="wallR"><stop stop-color="#181e20"/><stop offset=".62" stop-color="#4a4741"/><stop offset="1" stop-color="#272c2a"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#ffc779" stop-opacity=".9"/><stop offset="1" stop-color="#e09049" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="30"/></filter>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <ellipse cx="540" cy="990" rx="230" ry="470" fill="url(#light)" filter="url(#soft)"/>
+  <path d="M0 0H410L450 220 375 410 454 590 346 760 437 933 310 1115 426 1290 310 1470 390 1655 310 1920H0Z" fill="url(#wallL)" stroke="#6c675b" stroke-opacity=".48" stroke-width="15"/>
+  <path d="M1080 0H670L630 220 705 410 626 590 734 760 643 933 770 1115 654 1290 770 1470 690 1655 770 1920H1080Z" fill="url(#wallR)" stroke="#71695b" stroke-opacity=".43" stroke-width="15"/>
+  <path d="M410 0H670L630 220 705 410 626 590 734 760 643 933 770 1115 654 1290 770 1470 690 1655H390L310 1470 426 1290 310 1115 437 933 346 760 454 590 375 410 450 220Z" fill="#141b1d"/>
+  <path d="M468 0H612L590 260 646 478 570 700 620 925 560 1150 620 1390 570 1650H510L462 1390 520 1150 455 925 510 700 440 478 488 260Z" fill="#211f1a" opacity=".55"/>
+  <path d="M0 1450Q220 1360 540 1450Q830 1350 1080 1430V1920H0Z" fill="#161d1e"/>
+  <path d="M540 940L90 1920M540 940L990 1920" stroke="#87785f" stroke-opacity=".27" stroke-width="8"/>
+  <g fill="none" stroke="#a08e70" stroke-opacity=".55" stroke-width="9" stroke-linecap="round">
+    <path d="M82 374l118 65-48 90 132 72"/><path d="M62 850l130-55 70 80 98-30"/>
+    <path d="M999 404l-112 74 64 92-134 68"/><path d="M1016 890l-131-50-69 82-105-34"/>
+    <path d="M72 1260l128-46 60 62 91-25"/><path d="M1008 1290l-126-46-58 66-91-30"/>
+  </g>
+  <g fill="#c9b894" opacity=".75">
+    <path d="M451 228h40l-20 156z"/><path d="M584 286h33l-16 132z"/><path d="M382 570h28l-14 105z"/>
+    <path d="M651 636h30l-15 116z"/><path d="M428 1030h24l-12 94z"/><path d="M626 1120h26l-13 102z"/>
+  </g>
+  <g fill="#d9c6a0" opacity=".65">
+    <circle cx="260" cy="720" r="8"/><circle cx="810" cy="850" r="6"/><circle cx="345" cy="1100" r="5"/>
+    <circle cx="740" cy="1230" r="7"/><circle cx="486" cy="1500" r="5"/><circle cx="620" cy="1560" r="6"/>
+  </g>
+  <path d="M100 1690l82-37m-34 95 96-45m630-65 92 42m-43 75 82 40" stroke="#e0b56d" stroke-opacity=".4" stroke-width="12" stroke-linecap="round"/>
+</svg>

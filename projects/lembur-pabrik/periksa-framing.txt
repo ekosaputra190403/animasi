@@ -1,0 +1,7 @@
+Pemeriksaan framing: Video (projects/lembur-pabrik/index.tsx)
+Diperiksa tiap 5 frame; masalah minimal 0.3 detik.
+
+Ditemukan 3 masalah:
+  01:08.33 - 01:08.67  hantu    terpotong di pinggir KIRI (paling sedikit terlihat 34%)
+  01:09.17 - 01:09.50  satpam   terpotong di pinggir KANAN (paling sedikit terlihat 87%)
+  01:09.17 - 01:09.67  satpam   terpotong di pinggir KIRI (paling sedikit terlihat 87%)

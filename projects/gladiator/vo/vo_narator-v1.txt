@@ -1,0 +1,23 @@
+[curious] Bayangkan kamu hidup di Roma, dua ribu tahun lalu. Hari ini kamu harus bertarung sebagai gladiator, di depan lima puluh ribu penonton.
+
+[calm] Pagi itu, sarapanmu bubur gandum dan kacang, ditambah minuman dari abu tumbuhan untuk menguatkan tulang.
+
+[calm] Lawanmu seorang retiarius. Senjatanya jaring dan tombak bermata tiga.
+
+[calm] Kamu membawa pedang pendek, perisai besar, dan helm yang membuat pandanganmu sempit.
+
+[excited] Jaringnya meleset. Tombaknya menghantam perisaimu.
+
+[excited] Kamu membalas, sampai kalian berdua terguling di pasir.
+
+[calm] Tapi kamu tidak sendirian di arena. Ada wasit yang mengawasi pertarungan.
+
+[calm] Dan tidak semua pertarungan berakhir dengan kematian. Gladiator mahal untuk dilatih.
+
+[calm] Lawanmu mengangkat satu jari. Tanda menyerah.
+
+[calm] Penonton dan penyelenggara memutuskan, dia boleh hidup.
+
+[warm] Karena menang, kamu mendapat daun palem dan uang.
+
+[calm] Gladiator hebat bisa diberi pedang kayu, tanda dia bebas. Seorang gladiator bernama Flamma menerimanya empat kali. [pause] Dan empat kali, dia kembali bertarung.

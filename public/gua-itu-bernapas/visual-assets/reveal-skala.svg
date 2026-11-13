@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Reveal skala makhluk gunung</title>
+  <desc id="desc">Sosok raksasa menyatu dengan gunung, dengan Raka kecil di lereng sebagai pembanding skala.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#11191f"/><stop offset=".58" stop-color="#303838"/><stop offset="1" stop-color="#171d1d"/></linearGradient>
+    <linearGradient id="peak" x2=".8" y2="1"><stop stop-color="#777365"/><stop offset=".38" stop-color="#50534c"/><stop offset="1" stop-color="#252c2a"/></linearGradient>
+    <radialGradient id="haze"><stop stop-color="#d2985c" stop-opacity=".28"/><stop offset="1" stop-color="#d2985c" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="54"/></filter>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#sky)"/>
+  <ellipse cx="540" cy="925" rx="520" ry="600" fill="url(#haze)" filter="url(#blur)"/>
+  <path d="M0 1600l132-270 95 65 170-381 104 123 126-532 159 275 125-126 169 426v740H0Z" fill="url(#peak)" stroke="#817966" stroke-opacity=".35" stroke-width="20"/>
+  <path d="M191 1311l204-303 106 129 123-407 146 253 98-116 152 362" fill="none" stroke="#aca18a" stroke-opacity=".3" stroke-width="20"/>
+  <path d="M360 884q67-132 180-143 113 12 180 143" fill="none" stroke="#202522" stroke-width="28" stroke-linecap="round"/>
+  <path d="M399 1289q141-126 282 0" fill="none" stroke="#141819" stroke-width="30" stroke-linecap="round"/>
+  <path d="M420 1286l40 0-18 83zm76-49 44 0-20 99zm86-9 44 0-21 92zm81 31 42 0-17 82z" fill="#bcb197"/>
+  <path d="M0 1560q240-91 502 2 299-89 578 10v348H0Z" fill="#202724"/>
+  <g fill="#182321">
+    <path d="M67 1580l55-186 62 186zm95 18 70-246 76 246zm685-18 56-203 65 203zm110 18 71-247 72 247z"/>
+  </g>
+  <g stroke="#40372e" stroke-width="13"><path d="M128 1574v96m173-72v97m621-111v110m143-88v94"/></g>
+  <path d="M520 1717h26l14 103h-54Z" fill="#161c1d" stroke="#b9a17c" stroke-width="5"/>
+  <circle cx="533" cy="1703" r="13" fill="#c7a984"/>
+  <path d="M527 1693q8-30 21-4l-3 15h-17Z" fill="#667060" stroke="#18201e" stroke-width="4"/>
+  <circle cx="550" cy="1711" r="6" fill="#ffd47a"/>
+  <path d="M0 1850q255-53 540-14 288-44 540 15" fill="none" stroke="#9e8d70" stroke-opacity=".34" stroke-width="14"/>
+</svg>
